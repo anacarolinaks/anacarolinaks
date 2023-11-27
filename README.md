@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/anacarolinaks">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacarolinaks&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinaks&layout=compact&langs_count=6&theme=synthwave"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacarolinaks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinaks&layout=compact&langs_count=6&theme=dracula"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,8 +14,16 @@
 </div>
  
 <br>
- 
-### Para entrar em contato comigo ou para saber mais sobre mim :D
+
+ ## Sobre Mim:
+ <div>
+ <p>Oi, pessoal! 👋 Eu sou a Ana Carolina, mas podem me chamar de Carol. 🌸 No momento, estou mergulhada nos estudos para me tornar uma incrível desenvolvedora front-end. 🚀 Já tive  algumas experiências com desenvolvimento durante a minha formação, mas agora estou focada em aprimorar minhas habilidades em HTML, CSS, JavaScript e PHP.<br><br>
+
+Sou uma mulher super curiosa e paciente, embora às vezes a ansiedade dê as caras. 😅 Sempre busco ser amigável e respeitosa, e espero receber o mesmo tratamento. Vamos trocar conhecimentos e experiências! 💡✨</p>
+</div>
+
+## Contato:
+<p>Para entrar em contato comigo ou para saber mais sobre mim :D</p>
  
 <div> 
   <a href="https://instagram.com/carolkojima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
