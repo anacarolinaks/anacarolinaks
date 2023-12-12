@@ -13,7 +13,9 @@
   <p>Sou uma mulher super curiosa e paciente, embora às vezes a ansiedade dê as caras. 😅 Sempre busco ser amigável e respeitosa, e espero receber o mesmo tratamento. Vamos trocar conhecimentos e experiências! 💡✨</p>
 <br>
   </div>
-
+<p align="center">
+  <img aling="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+</p>
 ## 🚀 Em Evolução:
 
  <div>
@@ -30,7 +32,9 @@
 </div>
  
 <br>
-
+<p align="center">
+  <img aling="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+</p>
 ## 💻 Contatos:
 
 <p>Para entrar em contato comigo ou para saber mais sobre mim :D</p>
@@ -40,3 +44,7 @@
   <a href = "mailto:anacarolinakss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anacarolinaksm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<p align="center">
+  <img aling="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+</p>
