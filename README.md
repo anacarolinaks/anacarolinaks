@@ -13,6 +13,7 @@
   <p>Sou uma mulher super curiosa e paciente, embora às vezes a ansiedade dê as caras. 😅 Sempre busco ser amigável e respeitosa, e espero receber o mesmo tratamento. Vamos trocar conhecimentos e experiências! 💡✨</p>
 <br>
   </div>
+  
 ## 🚀 Em Evolução:
 
  <div>
