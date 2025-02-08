@@ -6,9 +6,9 @@
 ## ✌️ Sobre Mim:
 
  <div>
-  <p>Oi, pessoal! 👋 Eu sou a Ana Carolina, mas podem me chamar de Carol. 🌸 No momento, estou mergulhada nos estudos para me tornar uma desenvolvedora front-end. 🚀 Já tive  algumas experiências com desenvolvimento durante a minha formação, mas agora estou focada em aprimorar minhas habilidades em HTML, CSS, JavaScript e PHP para Wordpress.</p>
+  <p>Oi, pessoal! 👋 Eu sou a Ana Carolina, mas podem me chamar de Carol. 🌸 No momento, estou mergulhada nos estudos. 🚀 Já tive  algumas experiências com desenvolvimento durante a minha formação, mas agora estou focada em aprimorar minhas habilidades.</p>
 
-  <p>Atualmente trabalho como analista de suporte e Quality Assurance (QA)</p>
+  <p>Atualmente trabalho como analista de suporte de uma plataforma de e-commerce</p>
 
   <p>Sou uma mulher super curiosa e paciente, embora às vezes a ansiedade dê as caras. 😅 Sempre busco ser amigável e respeitosa, e espero receber o mesmo tratamento. Vamos trocar conhecimentos e experiências! 💡✨</p>
 <br>
