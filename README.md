@@ -6,12 +6,12 @@
 ## ✌️ Sobre Mim:
 
  <div>
-  <p>Oi, pessoal! 👋 Eu sou a Ana Carolina, mas podem me chamar de Carol. 🌸 No momento, estou mergulhada nos estudos. 🚀 Já tive  algumas experiências com desenvolvimento durante a minha formação, mas agora estou focada em aprimorar minhas habilidades.</p>
 
-  <p>Atualmente trabalho como analista de suporte de uma plataforma de e-commerce</p>
+<p>Oi, pessoal!  Eu sou a Ana Carolina, mas podem me chamar de Carol.  No momento, estou mergulhada nos estudos, focando em Automações e I.A.</p>
 
-  <p>Sou uma mulher super curiosa e paciente, embora às vezes a ansiedade dê as caras. 😅 Sempre busco ser amigável e respeitosa, e espero receber o mesmo tratamento. Vamos trocar conhecimentos e experiências! 💡✨</p>
-<br>
+<p>Atualmente trabalho como analista de testes em uma plataforma de e-commerce.</p>
+
+<p>Sou uma mulher super curiosa e paciente, embora às vezes a ansiedade dê as caras.  Sempre busco ser amigável e respeitosa, e espero receber o mesmo tratamento. Vamos trocar conhecimentos e experiências! ✨</p>
   </div>
   
 ## 🚀 Em Evolução:
@@ -37,7 +37,7 @@
  
 <div> 
   <a href="https://instagram.com/carolkojima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:anacarolinakss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:anacarolinaks@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anacarolinaksm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
