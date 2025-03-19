@@ -7,11 +7,11 @@
 
  <div>
 
-<p>Oi, pessoal!  Eu sou a Ana Carolina, mas podem me chamar de Carol.  No momento, estou mergulhada nos estudos, focando em Automações e I.A.</p>
+<p>Oi, pessoal!  Eu sou a Ana Carolina, mas podem me chamar de Carol.  No momento, estou aprofundando meus conhecimento focando em Automações e I.A.</p>
 
-<p>Atualmente trabalho como analista de testes em uma plataforma de e-commerce.</p>
+<p>Trabalho como analista de testes em uma plataforma de e-commerce, onde desenvolvo e executo testes manuais e automatizados para garantir a qualidade dos produtos.</p>
 
-<p>Sou uma mulher super curiosa e paciente, embora às vezes a ansiedade dê as caras.  Sempre busco ser amigável e respeitosa, e espero receber o mesmo tratamento. Vamos trocar conhecimentos e experiências! ✨</p>
+<p>Sou uma mulher super curiosa e paciente, embora às vezes a ansiedade dê as caras.  Sempre busco ser amigável e respeitosa, e espero receber o mesmo tratamento. Se você tiver alguma dica ou projeto interessante, entre em contato!  ✨</p>
 <br><br>
   </div>
   
