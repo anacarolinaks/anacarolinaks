@@ -1,8 +1,5 @@
 ## <div> Bem-vindo(a) <img align="right" alt="welcome" height="50" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif"><br><br></div>
 
-
-<img align="left" alt="Perfil" height="300" src="https://github.com/anacarolinaks/anacarolinaks/assets/15240129/4de8c95f-a0b7-41ce-9285-b66be55ec1ca">
-
 ## ✌️ Sobre Mim:
 
  <div>
