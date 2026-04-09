@@ -46,16 +46,6 @@ Tenho um perfil analítico, curioso e focado em melhoria contínua.
 
 ---
 
-## 📊 GitHub Stats
-
-<div>
-  <a href="https://github.com/anacarolinaks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacarolinaks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinaks&layout=compact&langs_count=6&theme=dracula"/>
-</div>
-
----
-
 ## 💬 Contato
 
 <div> 
